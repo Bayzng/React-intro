@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200&display=swap');
+
+.sectionOne {
+    background-color: black;
+    color: white;
+    height: 100vh;
+}
+
+.Title {
+    font-family: 'Nunito', sans-serif;
+    text-align: center;
+    padding-top: 15rem;
+}
+/* 
+.Title h1 {
+    
+}
+
+
+.sub {
+    font-size: 2rem;
+    padding-bottom: -2rem;
+} */

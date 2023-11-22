@@ -1,0 +1,17 @@
+.container {
+    margin-top: 2rem;
+}
+
+.container img {
+    width: 15%;
+}
+
+nav  {
+    display: flex;
+    justify-content: space-around;
+}
+
+nav ul li {
+    display: inline-block;
+    margin: 10px;
+}
